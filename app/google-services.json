@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732221036608",
+    "project_id": "dailynutri-6dea3",
+    "storage_bucket": "dailynutri-6dea3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732221036608:android:6dd6847b5c202292a067a5",
+        "android_client_info": {
+          "package_name": "com.example.dailynutri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAln6pqkwaie2uKxVvmNKjPOXMP5Ivo3wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
